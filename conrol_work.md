@@ -154,7 +154,7 @@ home_animals  pack_animals
 животных войдут классы: собаки, кошки, хомяки, а в класс вьючные животные
 войдут: Лошади, верблюды и ослы.
 
-! [схема_животных] (C:\Users\User\Documents\Control work\final\2024-04-07_21-53-26.jpg)
+! [схема_животных] ((https://github.com/Vanilika/-Final-control-work/blob/master/2024-04-07_21-53-26.jpg))
 
 
 
